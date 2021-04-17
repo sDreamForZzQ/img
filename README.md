@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/sDreamForZzQ/img@latest/favicon.ico
+https://cdn.jsdelivr.net/gh/sDreamForZzQ/img@latest/wallpaper/favicon.ico
