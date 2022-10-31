@@ -5,4 +5,4 @@ for /f "delims=" %%i in ('mshta "JavaScript:new ActiveXObject('Scripting.FileSys
 
 set "s1=%url%"
 
-echo https://cdn.jsdelivr.net/gh/sDreamForZzQ/img@latest/wallpaper/%s1% | clip
+echo|set /p="https://cdn.jsdelivr.net/gh/sDreamForZzQ/img@latest/wallpaper/%s1%"|clip
